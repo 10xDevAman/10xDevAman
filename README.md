@@ -20,7 +20,7 @@ Focused on **C, C++**, and currently diving deeper into **Java** and **Full-Stac
 ### 🧠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,git,github,vscode,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,sass,react,nodejs,git,github,vscode,linux,figma" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ Focused on **C, C++**, and currently diving deeper into **Java** and **Full-Stac
 ### 🌎 Connect With Me  
 
 <p align="center">
-  <a href="mailto:amanshah7271@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:10xdevaman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/10xDevAman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/10xDevAman"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://x.com/10xDevAman"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
