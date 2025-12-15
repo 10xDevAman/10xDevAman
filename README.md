@@ -6,14 +6,14 @@
 ### 👨‍💻 About Me  
 
 I'm **Aman Shah** — also known as **10xDevAman** 💻  
-A passionate **Computer Science student** who loves turning ideas into code and solving problems that make an impact.  
+A passionate **Computer Science graduate** who loves turning ideas into code and solving problems that make an impact.  
 Focused on **C, C++**, and currently diving deeper into **Java** and **Full-Stack Web Development**.  
 
 🌱 Constantly learning.  
 ⚙️ Love clean, efficient, and scalable code.  
 🤝 Open to collaborations and open-source contributions.  
 💬 Ask me about algorithms, problem-solving, or UI/UX tweaks.  
-⚡ Fun Fact: *The real magic starts after `#include <iostream>`*  
+⚡ Fun Fact: *The real magic starts after `When Build You Deep Dive into Basics🤘🏻`*  
 
 ---
 
@@ -31,7 +31,7 @@ Focused on **C, C++**, and currently diving deeper into **Java** and **Full-Stac
 |-------------|----------------|---------|
 | [🔢 Smart Calculator](https://github.com/10xDevAman/Smart-Calculator) | A sleek modern calculator with responsive UI & smooth CSS transitions. | HTML, CSS, JS |
 | [🧮 C++ Problem Solver](https://github.com/10xDevAman/Cpp-Problem-Solver) | Collection of optimized C++ programs & algorithms for learning and practice. | C++ |
-| [🌐 Portfolio Website](https://github.com/10xDevAman/Portfolio) | My personal portfolio showcasing projects, skills & achievements. | HTML, CSS, JS |
+| [🌐 Portfolio Website](https://10xDevAman/) | My personal portfolio showcasing projects, skills & achievements. | HTML, CSS, JS |
 | [📊 Data Visualizer](https://github.com/10xDevAman/Data-Visualizer) | Interactive charts & graphs built with JS libraries for better insights. | JS, Chart.js |
 
 ---
