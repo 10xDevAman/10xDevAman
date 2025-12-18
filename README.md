@@ -31,7 +31,7 @@ Focused on **C, C++**, and currently diving deeper into **Java** and **Full-Stac
 |-------------|----------------|---------|
 | [🔢 Smart Calculator](https://github.com/10xDevAman/Smart-Calculator) | A sleek modern calculator with responsive UI & smooth CSS transitions. | HTML, CSS, JS |
 | [🧮 C++ Problem Solver](https://github.com/10xDevAman/Cpp-Problem-Solver) | Collection of optimized C++ programs & algorithms for learning and practice. | C++ |
-| [🌐 Portfolio Website](https://10xDevAman/) | My personal portfolio showcasing projects, skills & achievements. | HTML, CSS, JS |
+| [🌐 Portfolio Website](https://10xdevaman.com/) | My personal portfolio showcasing projects, skills & achievements. | HTML, CSS, JS, React |
 | [📊 Data Visualizer](https://github.com/10xDevAman/Data-Visualizer) | Interactive charts & graphs built with JS libraries for better insights. | JS, Chart.js |
 
 ---
