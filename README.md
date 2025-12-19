@@ -29,9 +29,9 @@ Focused on **C, C++**, and currently diving deeper into **Java** and **Full-Stac
 
 | 💡 Project | 📝 Description | 🧰 Tech |
 |-------------|----------------|---------|
+| [🌐 Portfolio Website](https://10xdevaman.com/) | My personal portfolio showcasing projects, skills & achievements. | HTML, CSS, JS, React |
 | [🔢 Smart Calculator](https://smart-calculator-10xdevaman.netlify.app/) | A sleek modern calculator with responsive UI & smooth CSS transitions. | HTML, CSS, JS |
 | [🧮 C++ Problem Solver](https://github.com/10xDevAman/Cpp-Problem-Solver) | Collection of optimized C++ programs & algorithms for learning and practice. | C++ |
-| [🌐 Portfolio Website](https://10xdevaman.com/) | My personal portfolio showcasing projects, skills & achievements. | HTML, CSS, JS, React |
 | [📊 Data Visualizer](https://github.com/10xDevAman/Data-Visualizer) | Interactive charts & graphs built with JS libraries for better insights. | JS, Chart.js |
 
 ---
