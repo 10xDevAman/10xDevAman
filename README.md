@@ -7,7 +7,7 @@
 
 I'm **Aman Shah** — also known as **10xDevAman** 💻  
 A passionate **Computer Science graduate** who loves turning ideas into code and solving problems that make an impact.  
-Focused on **C, C++**, and currently diving deeper into **Java** and **Full-Stack Web Development**.  
+Focused on **C, C++**, and currently diving deeper into **JavaScript** **Python** and **Full-Stack Web Development**.  
 
 🌱 Constantly learning.  
 ⚙️ Love clean, efficient, and scalable code.  
